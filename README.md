@@ -3,7 +3,7 @@
 
 I'm providing my code from this particular exercise because the button handlers were a pain for anyone who wasn't in class when he explained them. He also said you'll also need all the key-handling code going forward.
 
-#### Note
+### Note
 
 I know the code he provides uses the *keycode* property, but this is being depreciated, [as seen here.](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode)
 
